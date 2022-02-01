@@ -1,2 +1,2 @@
 # This .gitignore file is created for PowerShell projects.
-.modules/
+modules
