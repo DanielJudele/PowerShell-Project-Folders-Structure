@@ -9,7 +9,7 @@
 
 `docs` - Any documentation related to the project or help files.  
 
-`modules` - Nuget packages.  
+`modules` - Powershell modules saved locally and used in the project.  
 
 `samples` - Optional folder with sample projects.  
 
